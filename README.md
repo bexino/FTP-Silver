@@ -4,7 +4,8 @@ A lightweight tool to easily start an FTP server.
 
 ## Quick Start
 
-Release
+Download the latest release:  
+https://github.com/bexino/FTP-Silver/releases
 
 ### Configuration
 
@@ -26,7 +27,7 @@ The build output is located at:
 
 ## License
 
-Apache
+Apache-2.0 license
 
 ---
 
@@ -36,7 +37,8 @@ Apache
 
 ## 快速开始
 
-Release
+下载最新发布版本：  
+https://github.com/bexino/FTP-Silver/releases
 
 ### 配置说明
 
@@ -50,7 +52,7 @@ Release
 
 ### 构建产物
 
-无需任何外部依赖。
+无需任何外部依赖。  
 
 构建产物位于：
 
@@ -58,4 +60,4 @@ Release
 
 ## 许可协议
 
-Apache
+Apache-2.0 license
