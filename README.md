@@ -1,3 +1,10 @@
+[![简体中文](https://img.shields.io/badge/简体中文-zh__cn-red)](#简体中文)
+[![QuickStart](https://img.shields.io/badge/Quick-Start-orange)](#quick-start)
+[![GitHub release](https://img.shields.io/github/v/release/bexino/FTP-Silver?color=yellow)](https://github.com/bexino/FTP-Silver/releases)
+[![Commit Activity](https://img.shields.io/github/commit-activity/t/bexino/FTP-Silver?color=green)](https://github.com/bexino/FTP-Silver/commits/main/)
+[![License](https://img.shields.io/github/license/bexino/FTP-Silver?color=blue)](https://github.com/bexino/FTP-Silver/blob/main/LICENSE)
+[![MadeWith♥](https://img.shields.io/badge/@bexino-Made_With_♥-purple)](https://github.com/bexino)
+
 # FTP-Silver
 
 A lightweight tool to easily start an FTP server.
