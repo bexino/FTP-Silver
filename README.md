@@ -11,8 +11,7 @@ A lightweight tool to easily start an FTP server.
 
 ## Quick Start
 
-Download the latest release:  
-https://github.com/bexino/FTP-Silver/releases
+[Download the latest release. ](https://github.com/bexino/FTP-Silver/releases)
 
 > [!TIP]
 > After the server starts successfully for the first time, a script file named `start.bat` will be automatically created in the same directory where you run the software.  
@@ -41,8 +40,7 @@ Apache-2.0 license
 
 ## 快速开始
 
-下载最新发布版本：  
-https://github.com/bexino/FTP-Silver/releases
+[下载最新发布版本。](https://github.com/bexino/FTP-Silver/releases)
 
 > [!TIP]
 > 服务器首次成功启动后，会在运行程序的同一目录下自动创建一个名为 `start.bat` 的脚本文件。  
