@@ -4,6 +4,7 @@
 [![Commit Activity](https://img.shields.io/github/commit-activity/t/bexino/FTP-Silver?color=green)](https://github.com/bexino/FTP-Silver/commits/main/)
 [![License](https://img.shields.io/github/license/bexino/FTP-Silver?color=blue)](https://github.com/bexino/FTP-Silver/blob/main/LICENSE)
 [![MadeWith♥](https://img.shields.io/badge/@bexino-Made_With_♥-purple)](https://github.com/bexino)
+[![ViewInGithub](https://img.shields.io/badge/View_In-GitHub-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino/FTP-Silver/)
 
 # FTP-Silver
 
